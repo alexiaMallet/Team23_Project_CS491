@@ -11,4 +11,21 @@ To reproduce the code, one should download the data from the link available abov
 - csv file train.csv available when dowloading the dataset (same as the one loaded in the Git Hub repository) 
 - csv file test.csv available when dowloading the dataset (same as the one loaded in the Git Hub repository) 
 
-Description of the contents of the notebook as well as description of the functions is available in the notebook (that was executed on jupyter notebook, in the same directory as the data).
+Description of the contents of the notebook as well as description of the functions are available in the notebook (that was executed on jupyter notebook, in the same directory as the data).
+
+The notebook has the following table of contents : 
+I. Set up
+I.1. Library importation
+I.2. Configuration and Hyper-parameters
+I.3. Data importation
+II. Network implementation
+II.1. Implementation of Conv Block
+II.2. Implementation of Identity Block
+II.3. Implementation of ResNet Block
+II.4. Implementation of the network COV19ResNet
+III. Training the network
+III.1. Settings
+III.2. Training
+III.3. Results
+
+Refer to the notebook for details about the code. 
