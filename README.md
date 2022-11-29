@@ -2,7 +2,7 @@
 Final project of course CS491
 
 
-The aim of this project is to create a classification network from Chest X-ray images to detect Covid 19. 
+The aim of this project is to create a __classification network from Chest X-ray images to detect Covid 19__. 
 It relies on the structure COV19_ResNet defined in : Diagnostic Inference Engines for Early Detection of COVID‑19 - Ayturk Keles, Mustafa Berk Keles, Ali Keles - (https://link.springer.com/content/pdf/10.1007/s12559-020-09795-5.pdf). <br>
 Data was downloaded from https://www.kaggle.com/datasets/andyczhao/covidx-cxr2?select=competition_test. Only the csv files with the name of images and corresponding labels as well as test images were loaded on the GitHub Repository due to the too large number of images in the training set.  <br>
 To reproduce the code (training the model), one should download the data from the link available above and change the paths to access it in the notebook. The notebook should be placed along with the following files : <br>
