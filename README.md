@@ -27,7 +27,8 @@ II.4. Implementation of the network COV19ResNet <br>
 III. Training the network <br>
 III.1. Settings <br>
 III.2. Training <br>
-III.3. Results <br>
+III.3. Inference <br>
+III.4. Results <br>
 
 Refer to the notebook for details about the code. <br>
 The file 'Results_predictions.csv' contains the predictions and ground truth for the model. 
